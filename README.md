@@ -1,5 +1,5 @@
 # colorgame
-## Giriteja color guessing game
+## Praneeth's color guessing game
 This is a simple game which would check your RGB color guessing skills.
 There is proportion of red,green,blue colors displayed on the top (out of 255).
  You have to guess the correct color that would be obtained after mixing those 3 colors. 
